@@ -1,0 +1,11 @@
+The above show all the different genes required to encode the problem as described. The possible genes 1110 & 1111 will remain unused and will be ignored by the algorithm if encountered.
+ 
+So now you can see that the solution mentioned above for 23, ' 6+5*4/2+1' would be represented by nine genes like so:
+ 
+0110 1010 0101 1100 0100 1101 0010 1010 0001
+ 
+6        +        5        *        4         /        2        +       1
+ 
+These genes are all strung together to form the chromosome:
+ 
+ 011010100101110001001101001010100001
